@@ -57,29 +57,7 @@ if __name__ == '__main__':
     draw(6, 100, channel=sys.stdout)
 
 
-#############:
-W = '\033[1;34;40m'
-Br = '\033[1;32;40m'
-Bg = '\033[1;31;40m'
-Y = '\033[1;32;40m'
-Bb = '\033[1;32;40m'
-Bm = '\033[1;32;40m'
-Bc = '\033[1;32;40m'
-M = '\033[1;34m'
-C = '\033[1;31m'
-D = '\033[1;32m'
-#################
-from datetime import datetime
-now = datetime.now()
-hour = now.hour
-minute = now.minute
-day = now.day
-month = now.month
-year = now.year
 
-##############
-
-#############
 
 os.system("clear")
 
